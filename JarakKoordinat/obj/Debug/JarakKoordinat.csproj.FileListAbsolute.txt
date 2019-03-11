@@ -1,0 +1,10 @@
+C:\Users\islam\source\repos\JarakKoordinat\JarakKoordinat\bin\Debug\JarakKoordinat.exe.config
+C:\Users\islam\source\repos\JarakKoordinat\JarakKoordinat\bin\Debug\JarakKoordinat.exe
+C:\Users\islam\source\repos\JarakKoordinat\JarakKoordinat\bin\Debug\JarakKoordinat.pdb
+C:\Users\islam\source\repos\JarakKoordinat\JarakKoordinat\obj\Debug\JarakKoordinat.csprojAssemblyReference.cache
+C:\Users\islam\source\repos\JarakKoordinat\JarakKoordinat\obj\Debug\JarakKoordinat.Form1.resources
+C:\Users\islam\source\repos\JarakKoordinat\JarakKoordinat\obj\Debug\JarakKoordinat.Properties.Resources.resources
+C:\Users\islam\source\repos\JarakKoordinat\JarakKoordinat\obj\Debug\JarakKoordinat.csproj.GenerateResource.cache
+C:\Users\islam\source\repos\JarakKoordinat\JarakKoordinat\obj\Debug\JarakKoordinat.csproj.CoreCompileInputs.cache
+C:\Users\islam\source\repos\JarakKoordinat\JarakKoordinat\obj\Debug\JarakKoordinat.exe
+C:\Users\islam\source\repos\JarakKoordinat\JarakKoordinat\obj\Debug\JarakKoordinat.pdb
